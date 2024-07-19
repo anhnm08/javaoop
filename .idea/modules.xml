@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/avaoop.iml" filepath="$PROJECT_DIR$/avaoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaoop.iml" filepath="$PROJECT_DIR$/javaoop.iml" />
     </modules>
   </component>
 </project>
