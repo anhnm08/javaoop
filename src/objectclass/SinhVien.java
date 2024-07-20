@@ -28,6 +28,13 @@ public class SinhVien {
          */
     }
 
+    public void getInfo(){  //mục đích để in ra info của 4 biến
+        System.out.println(name);
+        System.out.println(age);
+        System.out.println(address);
+        System.out.println(className);
+    }
+
     public int getAge() {
         return age;
     }
